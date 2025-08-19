@@ -8,10 +8,12 @@ As part of my internship at **SkanLog**, I completed this project to deepen my u
   - Encapsulation
   - Inheritance
   - Polymorphism
-- Unit testing
-- Abstract vs. virtual methods
-- Static members
-- Types of relationships
-- Reusability in components
 - Interfaces
+- Types of relationships
+- Abstract vs. virtual methods
+- Static members vs. extension methods
 - General/common methods
+- Repository classes
+- Reusability in components
+- Unit testing
+// Achieved 8/19/25
