@@ -16,4 +16,6 @@ As part of my internship at **SkanLog**, I completed this project to deepen my u
 - Repository classes
 - Reusability in components
 - Unit testing
+
+
 // Achieved 8/19/25
